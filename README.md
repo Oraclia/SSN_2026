@@ -1,7 +1,7 @@
 # SSN_2026
 2026 SSN's presentation
 
-[![test](./history.svg)](https://canva.link/o5bah3fo6wdof1e)
+Here is the link to the historical presentation retracing global and french events, AI, vidoesurveillance, facial recognition and AVS evolution and the french and european legal texts reglementing those technologies : https://canva.link/o5bah3fo6wdof1e
 
 # Bibliography
 
