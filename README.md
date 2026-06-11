@@ -1,7 +1,7 @@
 # SSN_2026
 2026 SSN's presentation
 
-![test](./history.svg)
+[![test](./history.svg)](https://canva.link/o5bah3fo6wdof1e)
 
 # Bibliography
 
