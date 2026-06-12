@@ -3,6 +3,8 @@
 
 Here is the link to the historical presentation retracing global and french events, AI, vidoesurveillance, facial recognition and AVS evolution and the french and european legal texts reglementing those technologies : https://canva.link/o5bah3fo6wdof1e
 
+![French and European legal framework](./legal_framework.png)
+
 # Bibliography
 
 ## 1. Legal and Regulatory Framework
