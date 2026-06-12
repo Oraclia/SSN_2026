@@ -15,7 +15,7 @@ Here is the link to the historical presentation retracing global and french even
 
 [3] French Ministry of the Interior. *Presentation of the RIPOST Bill.* Available at: https://www.interieur.gouv.fr/actualites/dossiers-de-presse/presentation-du-projet-de-loi-ripost
 
-[4] RIPOST Bill Documentation. *Presentation Dossier (PDF).* Available at: file:///C:/Users/melan/Downloads/2026-03-DP-projet-de-loi-RIPOST_0.pdf
+[4] RIPOST Bill Documentation. *Presentation Dossier (PDF).*
 
 [5] French Data Protection Authority (CNIL). *Augmented Cameras in Public Spaces: CNIL's Position.* Available at: https://www.cnil.fr/fr/cameras-augmentees-espaces-publics-position-cnil
 
